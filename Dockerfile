@@ -14,7 +14,7 @@ RUN \
         ipcalc \
         iptables \
         iputils \
-        libexecinfo \
+#        libexecinfo \
         net-tools \
         openresolv \
         openssl \
